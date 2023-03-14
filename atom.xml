@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-14T08:23:22.608Z</updated>
+  <updated>2023-03-14T10:07:29.374Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试</title>
+    <title>Mineskin 3D</title>
     <link href="http://example.com/2023/03/14/test/"/>
     <id>http://example.com/2023/03/14/test/</id>
     <published>2023-03-14T05:54:57.000Z</published>
-    <updated>2023-03-14T08:23:22.608Z</updated>
+    <updated>2023-03-14T10:07:29.374Z</updated>
     
+    <content type="html"><![CDATA[<div style="margin:0 auto; width: 100px">                <canvas id="mcskin7285"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin7285 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin7285"),                        width: 100,                        height: 200,                        skin: "https://mineskin.eu/skin/ATouuuu"                    });                    skinViewermcskin7285.autoRotate = true;                    skinViewermcskin7285.animation = new skinview3d.WalkingAnimation();                }, 500);            </script><div style="margin:0 auto; width: 300px">                <canvas id="mcskin2064"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin2064 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin2064"),                        width: 300,                        height: 400,                        skin: "https://mineskin.eu/skin/D_Sketon"                    });                    skinViewermcskin2064.autoRotate = true;                    skinViewermcskin2064.animation = new skinview3d.WalkingAnimation();                }, 500);            </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;margin:0 auto; width: 100px&quot;&gt;
+                &lt;canvas id=&quot;mcskin7285&quot;&gt;&lt;/canvas&gt;    
+            &lt;/div&gt;
+            &lt;script type=</summary>
+      
     
     
     
