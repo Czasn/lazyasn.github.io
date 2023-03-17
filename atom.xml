@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-15T09:57:42.603Z</updated>
+  <updated>2023-03-17T00:28:23.589Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>前言</title>
+    <link href="http://example.com/2023/03/17/%E5%89%8D%E8%A8%80/"/>
+    <id>http://example.com/2023/03/17/%E5%89%8D%E8%A8%80/</id>
+    <published>2023-03-17T00:18:39.000Z</published>
+    <updated>2023-03-17T00:28:23.589Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p> 此博客主要用于记录每日所学，以便梳理思绪，平复情绪，加强记忆。</p><p>并且会贴上每日的 电脑利用率 以用来监督自己的习惯。</p><p>后续有其他想法会在前言中继续增加</p><p>下面放上方块人 大家可以摸摸他的头（bushi</p><div style="margin:0 auto; width: 300px">                <canvas id="mcskin1210"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin1210 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin1210"),                        width: 300,                        height: 400,                        skin: "https://mineskin.eu/skin/Hristakis"                    });                    skinViewermcskin1210.autoRotate = false;                    skinViewermcskin1210.animation = new skinview3d.WalkingAnimation();                }, 500);            </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt; 此博客主要用于记录每日所学，以便梳理思绪，平复情绪，加强记忆。&lt;/p&gt;
+&lt;p&gt;并且会贴上每日的 电脑利用率 以用来监督自己的习惯。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Mineskin 3D</title>
     <link href="http://example.com/2023/03/14/test/"/>
     <id>http://example.com/2023/03/14/test/</id>
     <published>2023-03-14T05:54:57.000Z</published>
     <updated>2023-03-15T09:57:42.603Z</updated>
     
-    <content type="html"><![CDATA[<div style="margin:0 auto; width: 100px">                <canvas id="mcskin4633"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin4633 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin4633"),                        width: 100,                        height: 200,                        skin: "https://mineskin.eu/skin/ATouuuu"                    });                    skinViewermcskin4633.autoRotate = true;                    skinViewermcskin4633.animation = new skinview3d.WalkingAnimation();                }, 500);            </script><div style="margin:0 auto; width: 300px">                <canvas id="mcskin1302"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin1302 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin1302"),                        width: 300,                        height: 400,                        skin: "https://mineskin.eu/skin/D_Sketon"                    });                    skinViewermcskin1302.autoRotate = true;                    skinViewermcskin1302.animation = new skinview3d.WalkingAnimation();                }, 500);            </script>]]></content>
+    <content type="html"><![CDATA[<div style="margin:0 auto; width: 100px">                <canvas id="mcskin1178"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin1178 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin1178"),                        width: 100,                        height: 200,                        skin: "https://mineskin.eu/skin/ATouuuu"                    });                    skinViewermcskin1178.autoRotate = true;                    skinViewermcskin1178.animation = new skinview3d.WalkingAnimation();                }, 500);            </script><div style="margin:0 auto; width: 300px">                <canvas id="mcskin2750"></canvas>                </div>            <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>            <script>                setTimeout(() => {                    let skinViewermcskin2750 = new skinview3d.SkinViewer({                        canvas: document.getElementById("mcskin2750"),                        width: 300,                        height: 400,                        skin: "https://mineskin.eu/skin/D_Sketon"                    });                    skinViewermcskin2750.autoRotate = true;                    skinViewermcskin2750.animation = new skinview3d.WalkingAnimation();                }, 500);            </script>]]></content>
     
     
       
       
     <summary type="html">&lt;div style=&quot;margin:0 auto; width: 100px&quot;&gt;
-                &lt;canvas id=&quot;mcskin4633&quot;&gt;&lt;/canvas&gt;    
+                &lt;canvas id=&quot;mcskin1178&quot;&gt;&lt;/canvas&gt;    
             &lt;/div&gt;
             &lt;script type=</summary>
       
